@@ -16,7 +16,9 @@
 </sub></h1>
 
 [_Much Todo About Nothing_](https://muchtodo.app) will be a modern, feature-rich note-taking / todo list web application.
+
 ~~Now known as **much do**, <ins>Much</ins> To<ins>do</ins> About Nothing!~~
+
 Now known as **MUDONG**, <ins>Mu</ins>ch To<ins>do</ins> About Nothi<ins>ng</ins>!
 
 Live at [mudong.app](https://mudong.app). <sup>(*unless it crashed*)</sup>
